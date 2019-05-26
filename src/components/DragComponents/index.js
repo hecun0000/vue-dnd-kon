@@ -1,0 +1,6 @@
+export {default as timeline } from './timeline.vue'
+export {default as calendar } from './calendar.vue'
+export {default as welcome } from './welcome.vue'
+export {default as carousel } from './carousel.vue'
+export {default as imgs } from './img.vue'
+export {default as KonList } from './KonList.vue'
